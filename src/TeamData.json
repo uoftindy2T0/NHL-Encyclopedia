@@ -1,0 +1,10 @@
+[
+  {
+    "link": "http://localhost:3000/islanders",
+    "name": "New York Islanders"
+  },
+  {
+    "link": "http://localhost:3000/rangers",
+    "name": "New York Rangers"
+  }
+]
